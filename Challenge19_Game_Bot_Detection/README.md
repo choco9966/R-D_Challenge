@@ -35,7 +35,7 @@
 - LightGBM 2.3.0 
 - pandas 0.25.1
 - numpy 1.16.4
-- Pyspark 
+- Pyspark 2.4.4
 
 ### 전처리 
 
